@@ -1,0 +1,21 @@
+.bg-dark, .navbar-dark {
+    background-color: #2f2f2f;
+    color: white;
+
+}
+
+.navbar-light, .bg-light  {
+    background-color: white;
+    color: black;
+}
+
+.text-white {
+    color: white;
+}
+
+.column1 {
+    display: grid;
+    grid-template-columns: 1fr;
+    padding: 1em;
+    grid-row-gap: 100px;
+}
