@@ -1,2 +1,2 @@
-DOM manipulation
+DOM manipulation.
 Bootstrap responsive classes
