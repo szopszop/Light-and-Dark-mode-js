@@ -57,8 +57,6 @@ const switchTheme = () => {
     }
 
 
-
-
 }
 themeButton.addEventListener('toggle', switchTheme)
 
